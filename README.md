@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Shravani
 
-<!--
-**Mahadev9959/Mahadev9959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring DevOps Engineer
+🌱 Currently learning AWS + DevOps
+🚀 Skills: Git, GitHub, Linux, Java
+📫 Reach me: mahadev@gmail.com
 
-Here are some ideas to get you started:
+### 🔧 Tools & Technologies
+- Git & GitHub
+- AWS
+- Jenkins
+- Docker
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact
+I love learning new technologies every day!
