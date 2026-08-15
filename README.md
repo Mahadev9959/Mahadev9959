@@ -3,7 +3,7 @@
 💻 Aspiring DevOps Engineer
 🌱 Currently learning AWS + DevOps
 🚀 Skills: Git, GitHub, Linux, Java
-📫 Reach me: mahadev@gmail.com
+📫 Reach me: shravaniwork814@gmail.com
 
 ### 🔧 Tools & Technologies
 - Git & GitHub
